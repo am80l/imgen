@@ -11,5 +11,9 @@
     "url": "https://gitlab.aliambe.com/websites/imgen"
   },
   "author": "dev@aliambe.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "express": "^4.21.2"
+  }
 }
